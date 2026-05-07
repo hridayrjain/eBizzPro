@@ -1,0 +1,14 @@
+Starting project at C:\Users\Dell\Downloads\project\ebizzpro
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Android .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Android .\index.js ▓░░░░░░░░░░░░░░░  7.8% ( 48/172)
+Android .\index.js ▓▓▓▓▓▓░░░░░░░░░░ 39.6% (216/361)
+Android .\index.js ▓▓▓▓▓▓▓▓▓░░░░░░░ 61.9% (468/595)
+Android .\index.js ▓▓▓▓▓▓▓▓▓▓░░░░░░ 67.6% (666/860)
+Android .\index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 97.6% (1034/1051)
+Android Bundled 19393ms index.js (1054 modules)
+Android .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Android Bundled 230ms index.js (1 module)

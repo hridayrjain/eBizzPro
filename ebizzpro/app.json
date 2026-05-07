@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "eBizz Pro",
+    "slug": "ebizzpro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4F46E5"
+      },
+      "package": "com.ebizzpro"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
